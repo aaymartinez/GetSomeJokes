@@ -3,3 +3,5 @@
 
 Learning how to process an API response. <br/>
 Uses JavaScript (jQuery, PaceJS), JokeAPI, HTML, CSS
+
+Demo: https://aldrinez.infinityfreeapp.com/projects/jokes/index.php
